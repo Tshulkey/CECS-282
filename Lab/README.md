@@ -3,9 +3,9 @@ Here are are the labs for CECS-282. All in C++.
 
 ---
 
-*Arrays
-*Functions
-*and more
+* Arrays
+* Functions
+* and more
 
 ---
 
